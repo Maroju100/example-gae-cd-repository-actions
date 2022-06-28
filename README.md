@@ -10,4 +10,4 @@ The blog post explaining the process can be found [here](https://blog.etereo.io/
 If you want to match certain branches or tag names for your workflows, check the pattern matching guide: 
 [here](https://docs.github.com/en/free-pro-team@latest/actions/reference/workflow-syntax-for-github-actions#filter-pattern-cheat-sheet)
 
-adding to github actions
+adding to github actions and service account info for project
